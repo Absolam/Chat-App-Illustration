@@ -10,9 +10,6 @@ html {
   font-family: "rubik", sans-serif;
 }
 
-body {
-  background-color: hsl(0, 0%, 95%);
-}
 
 .background {
   position: absolute;
